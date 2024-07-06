@@ -1,404 +1,405 @@
-# glosarium-kecerdasan-artifisial
-Daftar istilah dan definisi dalam bidang kecerdasan artifisial (AI).
+# Glosarium Kecerdasan Artifisial
+*Daftar istilah dan definisi dalam bidang kecerdasan artifisial (AI).*
+___
 
-Action	Tindakan yang diambil oleh agen dalam reinforcement learning.
+**Action**	Tindakan yang diambil oleh agen dalam reinforcement learning.
 
-Actor-Critic Methods	Metode yang menggabungkan policy gradient dan value-based methods dalam reinforcement learning.
+**Actor-Critic Methods**	Metode yang menggabungkan policy gradient dan value-based methods dalam reinforcement learning.
 
-AI (Artificial Intelligence)	Kecerdasan buatan, yaitu simulasi kecerdasan manusia dalam mesin yang diprogram untuk berpikir dan belajar seperti manusia.
+**AI (Artificial Intelligence)**	Kecerdasan buatan, yaitu simulasi kecerdasan manusia dalam mesin yang diprogram untuk berpikir dan belajar seperti manusia.
 
-AI Accountability	Tanggung jawab individu atau organisasi dalam penggunaan AI.
+**AI Accountability**	Tanggung jawab individu atau organisasi dalam penggunaan AI.
 
-AI Agent	Entitas yang melakukan tugas berdasarkan kecerdasan buatan.
+**AI Agent**	Entitas yang melakukan tugas berdasarkan kecerdasan buatan.
 
-AI Anonymization	Proses menghilangkan informasi pribadi dari data sebelum digunakan dalam AI.
+**AI Anonymization**	Proses menghilangkan informasi pribadi dari data sebelum digunakan dalam AI.
 
-AI Assistant	Aplikasi atau sistem yang membantu pengguna dengan tugas-tugas sehari-hari menggunakan AI.
+**AI Assistant**	Aplikasi atau sistem yang membantu pengguna dengan tugas-tugas sehari-hari menggunakan AI.
 
-AI Audit	Proses penilaian untuk memastikan bahwa penggunaan AI sesuai dengan aturan dan standar.
+**AI Audit**	Proses penilaian untuk memastikan bahwa penggunaan AI sesuai dengan aturan dan standar.
 
-AI Bias Mitigation	Teknik untuk mengurangi atau menghilangkan bias dalam model AI.
+**AI Bias Mitigation**	Teknik untuk mengurangi atau menghilangkan bias dalam model AI.
 
-AI Compliance	Kepatuhan terhadap aturan dan standar yang berlaku dalam penggunaan AI.
+**AI Compliance**	Kepatuhan terhadap aturan dan standar yang berlaku dalam penggunaan AI.
 
-AI Data Augmentation	Teknik untuk meningkatkan jumlah dan variasi data dengan memodifikasi data yang ada.
+**AI Data Augmentation**	Teknik untuk meningkatkan jumlah dan variasi data dengan memodifikasi data yang ada.
 
-AI Data Labeling	Proses memberi label pada data untuk pelatihan model AI.
+**AI Data Labeling**	Proses memberi label pada data untuk pelatihan model AI.
 
-AI Data Minimization	Prinsip mengumpulkan dan menggunakan data sesedikit mungkin untuk tujuan tertentu.
+**AI Data Minimization**	Prinsip mengumpulkan dan menggunakan data sesedikit mungkin untuk tujuan tertentu.
 
-AI Data Normalization	Teknik untuk menstandarisasi data agar memiliki skala yang seragam.
+**AI Data Normalization**	Teknik untuk menstandarisasi data agar memiliki skala yang seragam.
 
-AI Data Preprocessing	Tahapan persiapan data sebelum digunakan dalam pelatihan model AI.
+**AI Data Preprocessing**	Tahapan persiapan data sebelum digunakan dalam pelatihan model AI.
 
-AI De-identification	Teknik untuk menghapus atau mengaburkan identitas pribadi dalam data.
+**AI De-identification**	Teknik untuk menghapus atau mengaburkan identitas pribadi dalam data.
 
-AI Deployment	Proses mengintegrasikan model AI ke dalam sistem atau produk yang digunakan oleh pengguna akhir.
+**AI Deployment**	Proses mengintegrasikan model AI ke dalam sistem atau produk yang digunakan oleh pengguna akhir.
 
-AI Ethics	Studi tentang etika dan dampak sosial dari pengembangan dan penggunaan AI.
+**AI Ethics**	Studi tentang etika dan dampak sosial dari pengembangan dan penggunaan AI.
 
-AI Ethics Committee	Kelompok yang bertanggung jawab atas penilaian etika dan dampak sosial dari penggunaan AI.
+**AI Ethics Committee**	Kelompok yang bertanggung jawab atas penilaian etika dan dampak sosial dari penggunaan AI.
 
-AI Fairness	Upaya untuk memastikan bahwa model AI tidak memiliki bias dan memperlakukan semua pengguna secara adil.
+**AI Fairness**	Upaya untuk memastikan bahwa model AI tidak memiliki bias dan memperlakukan semua pengguna secara adil.
 
-AI Fairness Toolkit	Alat yang membantu dalam mengidentifikasi dan mengurangi bias dalam model AI.
+**AI Fairness Toolkit**	Alat yang membantu dalam mengidentifikasi dan mengurangi bias dalam model AI.
 
-AI Feature Extraction	Proses mengekstrak informasi penting dari data mentah.
+**AI Feature Extraction**	Proses mengekstrak informasi penting dari data mentah.
 
-AI Feature Importance	Penilaian pentingnya setiap fitur dalam model AI.
+**AI Feature Importance**	Penilaian pentingnya setiap fitur dalam model AI.
 
-AI Feature Scaling	Metode untuk mengubah skala fitur agar model dapat belajar lebih efisien.
+**AI Feature Scaling**	Metode untuk mengubah skala fitur agar model dapat belajar lebih efisien.
 
-AI Framework	Kerangka kerja yang menyediakan alat dan library untuk membangun dan melatih model AI.
+**AI Framework**	Kerangka kerja yang menyediakan alat dan library untuk membangun dan melatih model AI.
 
-AI Governance	Pengaturan dan pengelolaan penggunaan AI untuk memastikan keadilan dan keamanan.
+**AI Governance**	Pengaturan dan pengelolaan penggunaan AI untuk memastikan keadilan dan keamanan.
 
-AI Impact Assessment	Evaluasi dampak sosial, ekonomi, dan lingkungan dari penggunaan AI.
+**AI Impact Assessment**	Evaluasi dampak sosial, ekonomi, dan lingkungan dari penggunaan AI.
 
-AI Liability	Tanggung jawab hukum atas kerugian yang disebabkan oleh kegagalan atau kesalahan AI.
+**AI Liability**	Tanggung jawab hukum atas kerugian yang disebabkan oleh kegagalan atau kesalahan AI.
 
-AI Model	Representasi matematis atau logis dari proses kecerdasan yang dapat dilatih dan dievaluasi.
+**AI Model**	Representasi matematis atau logis dari proses kecerdasan yang dapat dilatih dan dievaluasi.
 
-AI Pipeline	Serangkaian tahapan yang digunakan dalam pengolahan data dan pelatihan model AI.
+**AI Pipeline**	Serangkaian tahapan yang digunakan dalam pengolahan data dan pelatihan model AI.
 
-AI Platform	Sistem yang menyediakan lingkungan untuk pengembangan, pelatihan, dan penerapan model AI.
+**AI Platform**	Sistem yang menyediakan lingkungan untuk pengembangan, pelatihan, dan penerapan model AI.
 
-AI Policy	Dokumen yang menetapkan aturan dan pedoman untuk penggunaan AI dalam organisasi atau negara.
+**AI Policy**	Dokumen yang menetapkan aturan dan pedoman untuk penggunaan AI dalam organisasi atau negara.
 
-AI Privacy	Perlindungan data pribadi dalam penggunaan AI.
+**AI Privacy**	Perlindungan data pribadi dalam penggunaan AI.
 
-AI Privacy Protection	Teknik dan metode untuk melindungi data pribadi dalam penggunaan AI.
+**AI Privacy Protection**	Teknik dan metode untuk melindungi data pribadi dalam penggunaan AI.
 
-AI Regulation	Peraturan yang mengatur penggunaan AI oleh pemerintah atau badan regulasi.
+**AI Regulation**	Peraturan yang mengatur penggunaan AI oleh pemerintah atau badan regulasi.
 
-AI Risk Management	Proses mengidentifikasi, mengevaluasi, dan mengurangi risiko yang terkait dengan penggunaan AI.
+**AI Risk Management**	Proses mengidentifikasi, mengevaluasi, dan mengurangi risiko yang terkait dengan penggunaan AI.
 
-AI Robustness	Ketahanan model AI terhadap serangan atau input yang tidak biasa.
+**AI Robustness**	Ketahanan model AI terhadap serangan atau input yang tidak biasa.
 
-AI Safety	Aspek keamanan dalam pengembangan dan penggunaan AI.
+**AI Safety**	Aspek keamanan dalam pengembangan dan penggunaan AI.
 
-AI Transparency	Keterbukaan dalam proses pengembangan, pelatihan, dan penerapan model AI.
+**AI Transparency**	Keterbukaan dalam proses pengembangan, pelatihan, dan penerapan model AI.
 
-Anomaly Detection	Teknik untuk mengidentifikasi data yang tidak normal atau outlier.
+**Anomaly Detection**	Teknik untuk mengidentifikasi data yang tidak normal atau outlier.
 
-Artificial General Intelligence (AGI)	Kecerdasan buatan yang memiliki kemampuan umum seperti manusia.
+**Artificial General Intelligence (AGI)**	Kecerdasan buatan yang memiliki kemampuan umum seperti manusia.
 
-Attention Mechanism	Mekanisme yang memungkinkan model fokus pada bagian tertentu dari input.
+**Attention Mechanism**	Mekanisme yang memungkinkan model fokus pada bagian tertentu dari input.
 
-Autoencoder	Jenis jaringan saraf yang digunakan untuk belajar representasi data (encoding).
+**Autoencoder**	Jenis jaringan saraf yang digunakan untuk belajar representasi data (encoding).
 
-Autonomous Vehicle	Kendaraan yang dapat mengemudi sendiri tanpa intervensi manusia.
+**Autonomous Vehicle**	Kendaraan yang dapat mengemudi sendiri tanpa intervensi manusia.
 
-Bayesian Networks	Model grafis probabilistik yang mewakili hubungan antara variabel acak.
+**Bayesian Networks**	Model grafis probabilistik yang mewakili hubungan antara variabel acak.
 
-BERT	(Bidirectional Encoder Representations from Transformers: model NLP yang menggunakan transformer untuk memahami konteks dua arah.
+**BERT**	Bidirectional Encoder Representations from Transformers: model NLP yang menggunakan transformer untuk memahami konteks dua arah.
 
-Bias in AI	Kecenderungan atau prasangka yang muncul dalam model AI akibat data atau algoritma yang digunakan.
+**Bias in AI**	Kecenderungan atau prasangka yang muncul dalam model AI akibat data atau algoritma yang digunakan.
 
-Big Data	Dataset yang sangat besar dan kompleks yang sulit diolah menggunakan metode tradisional.
+**Big Data**	Dataset yang sangat besar dan kompleks yang sulit diolah menggunakan metode tradisional.
 
-CatBoost	Implementasi gradient boosting yang fokus pada data kategorikal.
+**CatBoost**	Implementasi gradient boosting yang fokus pada data kategorikal.
 
-Chatbot	Program komputer yang dirancang untuk mensimulasikan percakapan dengan pengguna manusia.
+**Chatbot**	Program komputer yang dirancang untuk mensimulasikan percakapan dengan pengguna manusia.
 
-Classification	Teknik supervised learning untuk mengklasifikasikan data ke dalam kategori tertentu.
+**Classification**	Teknik supervised learning untuk mengklasifikasikan data ke dalam kategori tertentu.
 
-Clustering	Teknik unsupervised learning untuk mengelompokkan data ke dalam kelompok yang serupa.
+**Clustering**	Teknik unsupervised learning untuk mengelompokkan data ke dalam kelompok yang serupa.
 
-Computer Vision	Cabang dari AI yang fokus pada pengenalan dan pemahaman gambar dan video.
+**Computer Vision**	Cabang dari AI yang fokus pada pengenalan dan pemahaman gambar dan video.
 
-Convolutional Neural Network (CNN)	Jenis jaringan saraf yang digunakan untuk pengolahan gambar dan visi komputer.
+**Convolutional Neural Network (CNN)**	Jenis jaringan saraf yang digunakan untuk pengolahan gambar dan visi komputer.
 
-Cross-Validation	Teknik untuk mengevaluasi performa model dengan membagi data menjadi beberapa bagian dan melatih model pada bagian yang berbeda.
+**Cross-Validation**	Teknik untuk mengevaluasi performa model dengan membagi data menjadi beberapa bagian dan melatih model pada bagian yang berbeda.
 
-Data Mining	Proses mengekstrak informasi penting dari dataset besar.
+**Data Mining**	Proses mengekstrak informasi penting dari dataset besar.
 
-Decision Tree	Model prediksi yang menggunakan struktur pohon untuk membuat keputusan.
+**Decision Tree**	Model prediksi yang menggunakan struktur pohon untuk membuat keputusan.
 
-Deep Learning	Subset dari machine learning yang menggunakan jaringan saraf tiruan dengan banyak lapisan (deep neural networks).
+**Deep Learning**	Subset dari machine learning yang menggunakan jaringan saraf tiruan dengan banyak lapisan (deep neural networks).
 
-Deep Q-Network (DQN)	Variasi dari Q-learning yang menggunakan jaringan saraf untuk memperkirakan Q-value.
+**Deep Q-Network (DQN)**	Variasi dari Q-learning yang menggunakan jaringan saraf untuk memperkirakan Q-value.
 
-Deep Reinforcement Learning	Penggabungan deep learning dengan reinforcement learning.
+**Deep Reinforcement Learning**	Penggabungan deep learning dengan reinforcement learning.
 
-Dialogue System	Sistem yang memungkinkan interaksi percakapan antara manusia dan komputer.
+**Dialogue System**	Sistem yang memungkinkan interaksi percakapan antara manusia dan komputer.
 
-Dimensionality Reduction	Teknik untuk mengurangi jumlah variabel input tanpa mengurangi informasi penting.
+**Dimensionality Reduction**	Teknik untuk mengurangi jumlah variabel input tanpa mengurangi informasi penting.
 
-Emotion Recognition	Teknik visi komputer untuk mengenali emosi dari wajah atau suara.
+**Emotion Recognition**	Teknik visi komputer untuk mengenali emosi dari wajah atau suara.
 
-Expert System	Sistem AI yang menggabungkan pengetahuan manusia dengan kemampuan komputer untuk memecahkan masalah.
+**Expert System**	Sistem AI yang menggabungkan pengetahuan manusia dengan kemampuan komputer untuk memecahkan masalah.
 
-Explainable AI (XAI)	Bidang AI yang fokus pada pembuatan model yang dapat dijelaskan dan dipahami.
+**Explainable AI (XAI)**	Bidang AI yang fokus pada pembuatan model yang dapat dijelaskan dan dipahami.
 
-Exploration vs Exploitation	Dilema dalam reinforcement learning antara mengeksplorasi lingkungan baru dan memanfaatkan tindakan yang 
+**Exploration vs Exploitation**	Dilema dalam reinforcement learning antara mengeksplorasi lingkungan baru dan memanfaatkan tindakan yang 
 diketahui.
 
-Face Recognition	Teknik visi komputer untuk mengenali wajah manusia.
+**Face Recognition**	Teknik visi komputer untuk mengenali wajah manusia.
 
-Feature Engineering	Proses memilih dan mengubah variabel input untuk meningkatkan performa model.
+**Feature Engineering**	Proses memilih dan mengubah variabel input untuk meningkatkan performa model.
 
-Feature Selection	Proses memilih variabel input yang paling relevan untuk model.
+**Feature Selection**	Proses memilih variabel input yang paling relevan untuk model.
 
-Fuzzy Logic	Logika yang memungkinkan nilai-nilai antara benar dan salah.
+**Fuzzy Logic**	Logika yang memungkinkan nilai-nilai antara benar dan salah.
 
-Game Theory	Studi tentang interaksi strategis antara pemain atau agen dalam permainan.
+**Game Theory**	Studi tentang interaksi strategis antara pemain atau agen dalam permainan.
 
-Gated Recurrent Unit (GRU)	Jenis RNN yang lebih sederhana dari LSTM.
+**Gated Recurrent Unit (GRU)**	Jenis RNN yang lebih sederhana dari LSTM.
 
-Generative Adversarial Network (GAN)	Jenis jaringan saraf yang terdiri dari dua model, generator dan diskriminator, yang saling bersaing.
+**Generative Adversarial Network (GAN)**	Jenis jaringan saraf yang terdiri dari dua model, generator dan diskriminator, yang saling bersaing.
 
-Genetic Algorithm	Algoritma yang terinspirasi oleh teori evolusi untuk mencari solusi optimal.
+**Genetic Algorithm**	Algoritma yang terinspirasi oleh teori evolusi untuk mencari solusi optimal.
 
-GPT (Generative Pre-trained Transformer)	Model NLP yang menggunakan transformer untuk generasi teks.
+**GPT (Generative Pre-trained Transformer)**	Model NLP yang menggunakan transformer untuk generasi teks.
 
-Gradient Boosting	Metode ensemble learning yang menggabungkan beberapa model lemah menjadi model yang kuat.
+**Gradient Boosting**	Metode ensemble learning yang menggabungkan beberapa model lemah menjadi model yang kuat.
 
-Hidden Markov Model (HMM)	Model statistik yang digunakan untuk memodelkan proses stokastik dengan state tersembunyi.
+**Hidden Markov Model (HMM)**	Model statistik yang digunakan untuk memodelkan proses stokastik dengan state tersembunyi.
 
-Hyperparameter	Parameter yang ditentukan sebelum proses pelatihan model dan mempengaruhi performa model.
+**Hyperparameter**	Parameter yang ditentukan sebelum proses pelatihan model dan mempengaruhi performa model.
 
-Image Recognition	Teknik AI untuk mengenali objek, orang, atau aktivitas dalam gambar.
+**Image Recognition**	Teknik AI untuk mengenali objek, orang, atau aktivitas dalam gambar.
 
-Instance Segmentation	Teknik visi komputer yang menggabungkan object detection dan semantic segmentation.
+**Instance Segmentation**	Teknik visi komputer yang menggabungkan object detection dan semantic segmentation.
 
-Knowledge Base	Kumpulan fakta dan aturan yang digunakan oleh sistem AI untuk membuat keputusan.
+**Knowledge Base**	Kumpulan fakta dan aturan yang digunakan oleh sistem AI untuk membuat keputusan.
 
-Knowledge Graph	Grafik yang mewakili pengetahuan dalam bentuk entitas dan hubungan antara entitas.
+**Knowledge Graph**	Grafik yang mewakili pengetahuan dalam bentuk entitas dan hubungan antara entitas.
 
-LightGBM	Implementasi gradient boosting yang menggunakan algoritma berbasis pohon.
+**LightGBM**	Implementasi gradient boosting yang menggunakan algoritma berbasis pohon.
 
-Long Short-Term Memory (LSTM)	Jenis RNN yang dapat belajar dependensi jangka panjang.
+**Long Short-Term Memory (LSTM)**	Jenis RNN yang dapat belajar dependensi jangka panjang.
 
-Machine Learning	Cabang dari AI yang fokus pada pengembangan algoritma yang memungkinkan komputer belajar dari data.
+**Machine Learning**	Cabang dari AI yang fokus pada pengembangan algoritma yang memungkinkan komputer belajar dari data.
 
-Markov Decision Process (MDP)	Model matematika yang digunakan dalam reinforcement learning untuk memodelkan keputusan dan tindakan.
+**Markov Decision Process (MDP)**	Model matematika yang digunakan dalam reinforcement learning untuk memodelkan keputusan dan tindakan.
 
-Model Adversarial Attack Analysis	Analisis serangan adversarial pada model machine learning.
+**Model Adversarial Attack Analysis**	Analisis serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Approach	Pendekatan yang digunakan untuk melakukan serangan adversarial pada model machine learning.
+**Model Adversarial Attack Approach**	Pendekatan yang digunakan untuk melakukan serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Case Study	Studi kasus tentang serangan adversarial pada model machine learning.
+**Model Adversarial Attack Case Study**	Studi kasus tentang serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Concept	Konsep yang digunakan untuk melakukan serangan adversarial pada model machine learning.
+**Model Adversarial Attack Concept**	Konsep yang digunakan untuk melakukan serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Dataset	Dataset yang digunakan untuk menguji serangan adversarial pada model machine learning.
+**Model Adversarial Attack Dataset**	Dataset yang digunakan untuk menguji serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Detection and Defense	Teknik untuk mendeteksi dan melindungi model machine learning dari serangan adversarial.
+**Model Adversarial Attack Detection and Defense**	Teknik untuk mendeteksi dan melindungi model machine learning dari serangan adversarial.
 
-Model Adversarial Attack Evaluation	Evaluasi dampak serangan adversarial pada model machine learning.
+**Model Adversarial Attack Evaluation**	Evaluasi dampak serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Framework	Kerangka kerja yang digunakan untuk melakukan serangan adversarial pada model machine learning.
+**Model Adversarial Attack Framework**	Kerangka kerja yang digunakan untuk melakukan serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Library	Library yang digunakan untuk melakukan serangan adversarial pada model machine learning.
+**Model Adversarial Attack Library**	Library yang digunakan untuk melakukan serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Literature	Kumpulan literatur tentang serangan adversarial pada model machine learning.
+**Model Adversarial Attack Literature**	Kumpulan literatur tentang serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Methodology	Metodologi yang digunakan untuk melakukan serangan adversarial pada model machine learning.
+**Model Adversarial Attack Methodology**	Metodologi yang digunakan untuk melakukan serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Mitigation	Teknik untuk mengurangi dampak serangan adversarial pada model machine learning.
+**Model Adversarial Attack Mitigation**	Teknik untuk mengurangi dampak serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Prevention	Teknik untuk mencegah serangan adversarial pada model machine learning.
+**Model Adversarial Attack Prevention**	Teknik untuk mencegah serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Principle	Prinsip yang digunakan untuk melakukan serangan adversarial pada model machine learning.
+**Model Adversarial Attack Principle**	Prinsip yang digunakan untuk melakukan serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Research	Penelitian tentang serangan adversarial pada model machine learning.
+**Model Adversarial Attack Research**	Penelitian tentang serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Simulation	Simulasi serangan adversarial pada model machine learning.
+**Model Adversarial Attack Simulation**	Simulasi serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Strategy	Strategi yang digunakan untuk melakukan serangan adversarial pada model machine learning.
+**Model Adversarial Attack Strategy**	Strategi yang digunakan untuk melakukan serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Technique	Teknik yang digunakan untuk melakukan serangan adversarial pada model machine learning.
+**Model Adversarial Attack Technique**	Teknik yang digunakan untuk melakukan serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Testing	Pengujian model machine learning terhadap serangan adversarial.
+**Model Adversarial Attack Testing**	Pengujian model machine learning terhadap serangan adversarial.
 
-Model Adversarial Attack Theory	Teori yang digunakan untuk melakukan serangan adversarial pada model machine learning.
+**Model Adversarial Attack Theory**	Teori yang digunakan untuk melakukan serangan adversarial pada model machine learning.
 
-Model Adversarial Attack Tool	Alat yang digunakan untuk melakukan serangan adversarial pada model machine learning.
+**Model Adversarial Attack Tool**	Alat yang digunakan untuk melakukan serangan adversarial pada model machine learning.
 
-Model Adversarial Defense	Teknik untuk melindungi model machine learning dari input adversarial.
+**Model Adversarial Defense**	Teknik untuk melindungi model machine learning dari input adversarial.
 
-Model Adversarial Detection	Teknik untuk mendeteksi input adversarial pada model machine learning.
+**Model Adversarial Detection**	Teknik untuk mendeteksi input adversarial pada model machine learning.
 
-Model Adversarial Example	Contoh input yang dirancang untuk mengelabui atau merusak model machine learning.
+**Model Adversarial Example**	Contoh input yang dirancang untuk mengelabui atau merusak model machine learning.
 
-Model Adversarial Robustness	Ketahanan model machine learning terhadap input adversarial.
+**Model Adversarial Robustness**	Ketahanan model machine learning terhadap input adversarial.
 
-Model Adversarial Training	Pelatihan model machine learning dengan contoh adversarial untuk meningkatkan ketahanan.
+**Model Adversarial Training**	Pelatihan model machine learning dengan contoh adversarial untuk meningkatkan ketahanan.
 
-Model Attack	Serangan yang dilakukan untuk mengganggu atau merusak model machine learning.
+**Model Attack**	Serangan yang dilakukan untuk mengganggu atau merusak model machine learning.
 
-Model Bagging	Teknik ensemble learning yang menggunakan bootstrap aggregating untuk mengurangi varians.
+**Model Bagging**	Teknik ensemble learning yang menggunakan bootstrap aggregating untuk mengurangi varians.
 
-Model Benchmarking	Proses membandingkan performa model machine learning dengan model lain dalam tugas yang sama.
+**Model Benchmarking**	Proses membandingkan performa model machine learning dengan model lain dalam tugas yang sama.
 
-Model Boosting	Teknik ensemble learning yang menggabungkan beberapa model lemah menjadi model yang kuat.
+**Model Boosting**	Teknik ensemble learning yang menggabungkan beberapa model lemah menjadi model yang kuat.
 
-Model Cloning	Proses membuat duplikat model machine learning yang identik.
+**Model Cloning**	Proses membuat duplikat model machine learning yang identik.
 
-Model Compatibility	Kemampuan model machine learning untuk bekerja dengan sistem atau perangkat lunak lain.
+**Model Compatibility**	Kemampuan model machine learning untuk bekerja dengan sistem atau perangkat lunak lain.
 
-Model Compression	Teknik untuk mengurangi ukuran dan kompleksitas model machine learning tanpa mengurangi performa.
+**Model Compression**	Teknik untuk mengurangi ukuran dan kompleksitas model machine learning tanpa mengurangi performa.
 
-Model Defense	Teknik untuk melindungi model machine learning dari serangan.
+**Model Defense**	Teknik untuk melindungi model machine learning dari serangan.
 
-Model Deployment	Proses mengintegrasikan model machine learning ke dalam sistem atau produk yang digunakan oleh pengguna akhir.
+**Model Deployment**	Proses mengintegrasikan model machine learning ke dalam sistem atau produk yang digunakan oleh pengguna akhir.
 
-Model Deserialization	Proses mengubah format serialisasi kembali menjadi model machine learning yang dapat digunakan.
+**Model Deserialization**	Proses mengubah format serialisasi kembali menjadi model machine learning yang dapat digunakan.
 
-Model Distillation	Teknik untuk mentransfer pengetahuan dari model besar ke model kecil.
+**Model Distillation**	Teknik untuk mentransfer pengetahuan dari model besar ke model kecil.
 
-Model Drift	Perubahan dalam distribusi data yang mempengaruhi performa model machine learning.
+**Model Drift**	Perubahan dalam distribusi data yang mempengaruhi performa model machine learning.
 
-Model Ensemble	Penggabungan beberapa model machine learning untuk meningkatkan akurasi dan ketahanan.
+**Model Ensemble**	Penggabungan beberapa model machine learning untuk meningkatkan akurasi dan ketahanan.
 
-Model Evaluation	Proses mengevaluasi performa model machine learning menggunakan metrik tertentu.
+**Model Evaluation**	Proses mengevaluasi performa model machine learning menggunakan metrik tertentu.
 
-Model Explainability	Teknik untuk memberikan penjelasan terhadap prediksi atau keputusan model machine learning.
+**Model Explainability**	Teknik untuk memberikan penjelasan terhadap prediksi atau keputusan model machine learning.
 
-Model Export	Proses mengekspor model machine learning ke format yang dapat digunakan di berbagai platform.
+**Model Export**	Proses mengekspor model machine learning ke format yang dapat digunakan di berbagai platform.
 
-Model Inference	Proses menggunakan model machine learning untuk membuat prediksi atau keputusan.
+**Model Inference**	Proses menggunakan model machine learning untuk membuat prediksi atau keputusan.
 
-Model Inference Time	Waktu yang dibutuhkan untuk melakukan inferensi dengan model machine learning.
+**Model Inference Time**	Waktu yang dibutuhkan untuk melakukan inferensi dengan model machine learning.
 
-Model Integration	Proses mengintegrasikan model machine learning ke dalam sistem atau aplikasi yang ada.
+**Model Integration**	Proses mengintegrasikan model machine learning ke dalam sistem atau aplikasi yang ada.
 
-Model Interpretability	Kemampuan untuk menjelaskan dan memahami keputusan yang dibuat oleh model machine learning.
+**Model Interpretability**	Kemampuan untuk menjelaskan dan memahami keputusan yang dibuat oleh model machine learning.
 
-Model Latency	Waktu tunda antara input dan output dalam inferensi model machine learning.
+**Model Latency**	Waktu tunda antara input dan output dalam inferensi model machine learning.
 
-Model Licensing	Pemberian izin penggunaan model machine learning sesuai dengan ketentuan hukum.
+**Model Licensing**	Pemberian izin penggunaan model machine learning sesuai dengan ketentuan hukum.
 
-Model Marketplace	Platform untuk berbagi dan menjual model machine learning.
+**Model Marketplace**	Platform untuk berbagi dan menjual model machine learning.
 
-Model Monitoring	Proses memantau performa dan kesehatan model machine learning setelah di-deploy.
+**Model Monitoring**	Proses memantau performa dan kesehatan model machine learning setelah di-deploy.
 
-Model Optimization	Proses meningkatkan performa dan efisiensi model machine learning.
+**Model Optimization**	Proses meningkatkan performa dan efisiensi model machine learning.
 
-Model Persistence	Proses menyimpan dan memuat model machine learning dari penyimpanan.
+**Model Persistence**	Proses menyimpan dan memuat model machine learning dari penyimpanan.
 
-Model Portability	Kemampuan model machine learning untuk digunakan di berbagai platform atau lingkungan.
+**Model Portability**	Kemampuan model machine learning untuk digunakan di berbagai platform atau lingkungan.
 
-Model Pruning	Teknik untuk menghapus bagian dari model machine learning yang tidak signifikan untuk meningkatkan efisiensi.
+**Model Pruning**	Teknik untuk menghapus bagian dari model machine learning yang tidak signifikan untuk meningkatkan efisiensi.
 
-Model Quantization	Teknik untuk mengurangi presisi parameter model machine learning untuk meningkatkan kecepatan dan efisiensi.
+**Model Quantization**	Teknik untuk mengurangi presisi parameter model machine learning untuk meningkatkan kecepatan dan efisiensi.
 
-Model Registry	Penyimpanan dan manajemen model machine learning yang telah dilatih.
+**Model Registry**	Penyimpanan dan manajemen model machine learning yang telah dilatih.
 
-Model Replication	Proses membuat salinan model machine learning untuk tujuan pengujian atau penggunaan lain.
+**Model Replication**	Proses membuat salinan model machine learning untuk tujuan pengujian atau penggunaan lain.
 
-Model Retraining	Proses melatih ulang model machine learning dengan data baru untuk menjaga performa.
+**Model Retraining**	Proses melatih ulang model machine learning dengan data baru untuk menjaga performa.
 
-Model Robustness Testing	Pengujian ketahanan model machine learning terhadap input yang tidak biasa atau serangan.
+**Model Robustness Testing**	Pengujian ketahanan model machine learning terhadap input yang tidak biasa atau serangan.
 
-Model Scalability	Kemampuan model machine learning untuk menangani peningkatan beban atau data.
+**Model Scalability**	Kemampuan model machine learning untuk menangani peningkatan beban atau data.
 
-Model Security	Perlindungan model machine learning dari serangan atau penggunaan yang tidak sah.
+**Model Security**	Perlindungan model machine learning dari serangan atau penggunaan yang tidak sah.
 
-Model Selection	Proses memilih model machine learning yang paling sesuai untuk tugas tertentu.
+**Model Selection**	Proses memilih model machine learning yang paling sesuai untuk tugas tertentu.
 
-Model Serialization	Proses mengubah model machine learning menjadi format yang dapat disimpan dan dikirim.
+**Model Serialization**	Proses mengubah model machine learning menjadi format yang dapat disimpan dan dikirim.
 
-Model Serving	Proses menyediakan akses ke model machine learning untuk digunakan dalam produksi.
+**Model Serving**	Proses menyediakan akses ke model machine learning untuk digunakan dalam produksi.
 
-Model Stacking	Teknik ensemble learning yang menggabungkan prediksi dari beberapa model.
+**Model Stacking**	Teknik ensemble learning yang menggabungkan prediksi dari beberapa model.
 
-Model Synthesis	Proses menghasilkan model machine learning baru dari model yang ada.
+**Model Synthesis**	Proses menghasilkan model machine learning baru dari model yang ada.
 
-Model Testing	Proses menguji model machine learning untuk memastikan bahwa model bekerja sesuai dengan harapan.
+**Model Testing**	Proses menguji model machine learning untuk memastikan bahwa model bekerja sesuai dengan harapan.
 
-Model Throughput	Jumlah inferensi yang dapat dilakukan oleh model machine learning dalam satuan waktu.
+**Model Throughput**	Jumlah inferensi yang dapat dilakukan oleh model machine learning dalam satuan waktu.
 
-Model Tuning	Proses menyesuaikan parameter model machine learning untuk meningkatkan performa.
+**Model Tuning**	Proses menyesuaikan parameter model machine learning untuk meningkatkan performa.
 
-Model Validation	Proses memvalidasi model machine learning untuk memastikan bahwa model bekerja dengan baik pada data baru.
+**Model Validation**	Proses memvalidasi model machine learning untuk memastikan bahwa model bekerja dengan baik pada data baru.
 
-Model Versioning	Pengelolaan versi model machine learning untuk memudahkan pembaruan dan pemeliharaan.
+**Model Versioning**	Pengelolaan versi model machine learning untuk memudahkan pembaruan dan pemeliharaan.
 
-Model Vulnerability	Kerentanan model machine learning terhadap serangan atau kesalahan.
+**Model Vulnerability**	Kerentanan model machine learning terhadap serangan atau kesalahan.
 
-Monte Carlo Methods	Metode yang menggunakan simulasi untuk memperkirakan nilai atau policy dalam reinforcement learning.
+**Monte Carlo Methods**	Metode yang menggunakan simulasi untuk memperkirakan nilai atau policy dalam reinforcement learning.
 
-Multi-Agent Systems	Sistem yang terdiri dari beberapa agen yang bekerja sama atau bersaing.
+**Multi-Agent Systems**	Sistem yang terdiri dari beberapa agen yang bekerja sama atau bersaing.
 
-Narrow AI	Kecerdasan buatan yang hanya mampu melakukan tugas tertentu.
+**Narrow AI**	Kecerdasan buatan yang hanya mampu melakukan tugas tertentu.
 
-Natural Language Processing (NLP)	Cabang dari AI yang fokus pada interaksi antara komputer dan bahasa manusia.
+**Natural Language Processing (NLP)**	Cabang dari AI yang fokus pada interaksi antara komputer dan bahasa manusia.
 
-Neural Network	Model komputasi yang terinspirasi oleh struktur dan fungsi otak manusia.
+**Neural Network**	Model komputasi yang terinspirasi oleh struktur dan fungsi otak manusia.
 
-Object Detection	Teknik visi komputer untuk mengenali dan menempatkan objek dalam gambar.
+**Object Detection**	Teknik visi komputer untuk mengenali dan menempatkan objek dalam gambar.
 
-Ontology	Struktur yang mendefinisikan konsep dan hubungan dalam domain tertentu.
+**Ontology**	Struktur yang mendefinisikan konsep dan hubungan dalam domain tertentu.
 
-Optical Character Recognition (OCR)	Teknik untuk mengenali dan mengekstrak teks dari gambar.
+**Optical Character Recognition (OCR)**	Teknik untuk mengenali dan mengekstrak teks dari gambar.
 
-Overfitting	Kondisi di mana model machine learning terlalu menyesuaikan diri dengan data pelatihan dan tidak mampu menggeneralisasi ke data 
+**Overfitting**	Kondisi di mana model machine learning terlalu menyesuaikan diri dengan data pelatihan dan tidak mampu menggeneralisasi ke data 
 baru.
 
-Policy	Aturan atau strategi yang digunakan oleh agen untuk memilih tindakan.
+**Policy**	Aturan atau strategi yang digunakan oleh agen untuk memilih tindakan.
 
-Policy Gradient	Metode reinforcement learning yang langsung mempelajari policy (tindakan) yang optimal.
+**Policy Gradient**	Metode reinforcement learning yang langsung mempelajari policy (tindakan) yang optimal.
 
-Pose Estimation	Teknik visi komputer untuk mengestimasi posisi dan gerakan tubuh.
+**Pose Estimation**	Teknik visi komputer untuk mengestimasi posisi dan gerakan tubuh.
 
-Predictive Analytics	Penggunaan data, statistik, dan teknik machine learning untuk memprediksi kejadian di masa depan.
+**Predictive Analytics**	Penggunaan data, statistik, dan teknik machine learning untuk memprediksi kejadian di masa depan.
 
-Q-Learning	Algoritma reinforcement learning yang menggunakan tabel Q-value untuk memilih tindakan.
+**Q-Learning**	Algoritma reinforcement learning yang menggunakan tabel Q-value untuk memilih tindakan.
 
-Random Forest	Ensemble learning method yang menggunakan banyak decision tree.
+**Random Forest**	Ensemble learning method yang menggunakan banyak decision tree.
 
-Recurrent Neural Network (RNN)	Jenis jaringan saraf yang digunakan untuk pengolahan data berurutan seperti teks dan waktu.
+**Recurrent Neural Network (RNN)**	Jenis jaringan saraf yang digunakan untuk pengolahan data berurutan seperti teks dan waktu.
 
-Regression	Teknik supervised learning untuk memprediksi nilai kontinu.
+R**egression**	Teknik supervised learning untuk memprediksi nilai kontinu.
 
-Reinforcement Learning	Metode machine learning di mana model belajar dengan melakukan tindakan dan menerima reward atau punishment.
+**Reinforcement Learning**	Metode machine learning di mana model belajar dengan melakukan tindakan dan menerima reward atau punishment.
 
-Reinforcement Learning Agent	Agen yang belajar dengan melakukan tindakan dan menerima reward atau punishment.
+**Reinforcement Learning Agent**	Agen yang belajar dengan melakukan tindakan dan menerima reward atau punishment.
 
-Reward Function	Fungsi yang menentukan reward yang diterima oleh agen dalam reinforcement learning.
+**Reward Function**	Fungsi yang menentukan reward yang diterima oleh agen dalam reinforcement learning.
 
-Robotics	Cabang dari AI yang fokus pada pengembangan robot yang dapat melakukan tugas fisik.
+**Robotics**	Cabang dari AI yang fokus pada pengembangan robot yang dapat melakukan tugas fisik.
 
-Semantic Segmentation	Teknik visi komputer untuk mengklasifikasikan setiap piksel dalam gambar.
+**Semantic Segmentation**	Teknik visi komputer untuk mengklasifikasikan setiap piksel dalam gambar.
 
-Sentiment Analysis	Teknik AI untuk mengidentifikasi emosi atau sikap dalam teks.
+**Sentiment Analysis**	Teknik AI untuk mengidentifikasi emosi atau sikap dalam teks.
 
-Speech Recognition	Teknik AI untuk mengenali dan mengartikan ucapan manusia.
+**Speech Recognition**	Teknik AI untuk mengenali dan mengartikan ucapan manusia.
 
-Speech Synthesis	Teknik untuk menghasilkan suara dari teks.
+**Speech Synthesis**	Teknik untuk menghasilkan suara dari teks.
 
-Speech Translation	Teknik untuk menerjemahkan suara ke bahasa lain.
+**Speech Translation**	Teknik untuk menerjemahkan suara ke bahasa lain.
 
-Speech-to-Text (STT)	Teknik AI untuk mengubah suara menjadi teks.
+**Speech-to-Text (STT)**	Teknik AI untuk mengubah suara menjadi teks.
 
-State	Kondisi atau situasi yang dialami oleh agen dalam reinforcement learning.
+**State**	Kondisi atau situasi yang dialami oleh agen dalam reinforcement learning.
 
-Supervised Learning	Metode machine learning di mana model dilatih menggunakan dataset berlabel.
+**Supervised Learning**	Metode machine learning di mana model dilatih menggunakan dataset berlabel.
 
-Support Vector Machine (SVM)	Algoritma supervised learning yang digunakan untuk klasifikasi dan regresi.
+**Support Vector Machine (SVM)**	Algoritma supervised learning yang digunakan untuk klasifikasi dan regresi.
 
-T5 (Text-to-Text Transfer Transformer)	Model NLP yang menggunakan transformer untuk berbagai tugas NLP.
+**T5 (Text-to-Text Transfer Transformer)**	Model NLP yang menggunakan transformer untuk berbagai tugas NLP.
 
-Temporal Difference (TD) Learning	Metode yang menggabungkan ide dari Monte Carlo dan dynamic programming dalam reinforcement learning.
+**Temporal Difference (TD) Learning**	Metode yang menggabungkan ide dari Monte Carlo dan dynamic programming dalam reinforcement learning.
 
-Text-to-Speech (TTS)	Teknik AI untuk mengubah teks menjadi suara.
+**Text-to-Speech (TTS)**	Teknik AI untuk mengubah teks menjadi suara.
 
-Transfer Learning	Teknik di mana model yang telah dilatih pada tugas tertentu digunakan sebagai titik awal untuk tugas lain.
+**Transfer Learning**	Teknik di mana model yang telah dilatih pada tugas tertentu digunakan sebagai titik awal untuk tugas lain.
 
-Transformer	Model yang menggunakan attention mechanism untuk memproses data berurutan.
+**Transformer**	Model yang menggunakan attention mechanism untuk memproses data berurutan.
 
-Transition Probability	Probabilitas perubahan dari satu state ke state lain setelah mengambil tindakan.
+**Transition Probability**	Probabilitas perubahan dari satu state ke state lain setelah mengambil tindakan.
 
-Underfitting	Kondisi di mana model machine learning tidak mampu menangkap pola dalam data pelatihan.
+**Underfitting**	Kondisi di mana model machine learning tidak mampu menangkap pola dalam data pelatihan.
 
-Unsupervised Learning	Metode machine learning di mana model dilatih menggunakan dataset tanpa label.
+**Unsupervised Learning**	Metode machine learning di mana model dilatih menggunakan dataset tanpa label.
 
-Value Function	Fungsi yang menghitung nilai atau keuntungan dari suatu state atau state-action pair.
+**Value Function**	Fungsi yang menghitung nilai atau keuntungan dari suatu state atau state-action pair.
 
-Variational Autoencoder (VAE)	Jenis autoencoder yang digunakan untuk generasi data.
+**Variational Autoencoder (VAE)**	Jenis autoencoder yang digunakan untuk generasi data.
 
-Virtual Assistant	Agen virtual yang membantu pengguna dengan tugas-tugas sehari-hari.
+**Virtual Assistant**	Agen virtual yang membantu pengguna dengan tugas-tugas sehari-hari.
 
-XGBoost	Implementasi efisien dari gradient boosting.
+**XGBoost**	Implementasi efisien dari gradient boosting.
